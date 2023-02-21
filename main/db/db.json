@@ -18,5 +18,10 @@
         "title": "New note",
         "text": "wow",
         "id": "60c6"
+    },
+    {
+        "title": "README with generator",
+        "text": "write a readme for this thing",
+        "id": "3907"
     }
 ]
