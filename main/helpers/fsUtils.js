@@ -1,3 +1,5 @@
+// customizing read, write, and readAndAppend for easier use
+
 const fs = require('fs');
 const util = require('util');
 
