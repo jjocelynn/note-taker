@@ -4,6 +4,10 @@
 
 This application is used to write and save notes so that the user can organize their thoughts and keep track of tasks they need to complete. Using express.js, the front and back end are linked so that the application can use a custom database to save notes and middleware to deal with http requests
 
+## Deployed Application
+
+https://jocelyn-note-taker.herokuapp.com/notes
+
 ## Table of Contents
 
 - [Usage](#usage)

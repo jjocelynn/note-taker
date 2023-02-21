@@ -1,27 +1,17 @@
 [
     {
-        "title": "anoither note",
-        "text": "anourter note indeed\n",
-        "id": "bf1f"
+        "title": "Deploy to Heroku",
+        "text": "deploy code to heroku and get link for readme and sumbission.",
+        "id": "c236"
     },
     {
-        "title": "notw 3",
-        "text": "so bad at spelling\n",
-        "id": "0edc"
+        "title": "create README",
+        "text": "use readme generator to create a readme file + license",
+        "id": "eb1b"
     },
     {
-        "title": "dfg 5",
-        "text": "sdf",
-        "id": "b143"
-    },
-    {
-        "title": "New note",
-        "text": "wow",
-        "id": "60c6"
-    },
-    {
-        "title": "README with generator",
-        "text": "write a readme for this thing",
-        "id": "3907"
+        "title": "Submit",
+        "text": "re-read the criteria and submit all necessary links",
+        "id": "f7f7"
     }
 ]
